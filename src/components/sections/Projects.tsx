@@ -81,8 +81,8 @@ export default function Projects() {
                   </div>
 
                   {/* Content */}
-                  <div className="flex-1 flex flex-col">
-                    <h3 className="text-xl font-bold text-text-light mb-3 group-hover:text-primary-blueLight transition-colors">
+                  <div className="flex-1 flex flex-col pt-2">
+                    <h3 className="text-xl font-bold text-text-light mb-3 pr-24 group-hover:text-primary-blueLight transition-colors">
                       {project.title}
                     </h3>
                     <p className="text-text-light/70 mb-4 flex-1">
