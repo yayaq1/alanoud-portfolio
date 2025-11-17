@@ -62,7 +62,7 @@ export default function Hero() {
           {/* Name with Glitch Effect */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <GlitchText
-              text="Alanoud"
+              text="Hassan"
               className="text-gradient"
               isGlitching={isGlitching}
             />
